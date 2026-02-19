@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Ding Ding Dong ～心の鐘～",
+  "base_artist": "AK-69 a.k.a. Kalassy Nikoff",
+  "createdAt": "2026-02-19T16:45:55.425078Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ding Ding Dong",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/01_Ding_Ding_Dong_LOONA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ding Ding Dong",
+      "artist": "LOONA",
+      "has_synced": true,
+      "path": "select/02_Ding_Ding_Dong_LOONA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ding Ding Dong (Ringing At Your Bell)",
+      "artist": "Les Rita Mitsouko",
+      "has_synced": true,
+      "path": "select/03_Ding_Ding_Dong_(Ringing_At_Your_Bell)_Les_Rita_Mitsouko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DING DING DONG",
+      "artist": "INSTASAMKA",
+      "has_synced": true,
+      "path": "select/04_DING_DING_DONG_INSTASAMKA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ding Ding Dong",
+      "artist": "Vijay Prakash",
+      "has_synced": false,
+      "path": "select/05_Ding_Ding_Dong_Vijay_Prakash.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ding Ding Dong",
+      "artist": "Vijay Prakash, Arjun Janya",
+      "has_synced": false,
+      "path": "select/06_Ding_Ding_Dong_Vijay_Prakash,_Arjun_Janya.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ding Ding Dong - Chimp Voice",
+      "artist": "Vijay Prakash",
+      "has_synced": true,
+      "path": "select/07_Ding_Ding_Dong_-_Chimp_Voice_Vijay_Prakash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ding Ding Dong (Chimp Voice)",
+      "artist": "Vijay Prakash, Arjun Janya",
+      "has_synced": true,
+      "path": "select/08_Ding_Ding_Dong_(Chimp_Voice)_Vijay_Prakash,_Arjun_Janya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ding Ding Dong",
+      "artist": "BALLISTIK BOYZ from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/09_Ding_Ding_Dong_BALLISTIK_BOYZ_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Haba haba i ding ding dong",
+      "artist": "Spięty",
+      "has_synced": true,
+      "path": "select/10_Haba_haba_i_ding_ding_dong_Spięty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ding Ding Dong ～心の鐘～ (Kalassy Nikoff Version)",
+      "artist": "AK-69",
+      "has_synced": true,
+      "path": "select/11_Ding_Ding_Dong_~心の鐘~_(Kalassy_Nikoff_Version)_AK-69.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ding Ding Dong (Ringing at Your Bell)",
+      "artist": "Les Rita Mitsouko",
+      "has_synced": true,
+      "path": "select/12_Ding_Ding_Dong_(Ringing_at_Your_Bell)_Les_Rita_Mitsouko.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ding Ding Dong",
+      "artist": "Les Rita Mitsouko",
+      "has_synced": true,
+      "path": "select/13_Ding_Ding_Dong_Les_Rita_Mitsouko.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ding Ding Dong",
+      "artist": "Rita Mitsouko, Les",
+      "has_synced": true,
+      "path": "select/14_Ding_Ding_Dong_Rita_Mitsouko,_Les.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ding Ding Dong 〜心の鐘〜",
+      "artist": "AK-69",
+      "has_synced": true,
+      "path": "select/15_Ding_Ding_Dong_〜心の鐘〜_AK-69.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ding Ding Dong",
+      "artist": "Ross Antony",
+      "has_synced": true,
+      "path": "select/16_Ding_Ding_Dong_Ross_Antony.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ding ding dong",
+      "artist": "Rita Mitsouko",
+      "has_synced": true,
+      "path": "select/17_Ding_ding_dong_Rita_Mitsouko.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ding ding dong(ringing at your bell)",
+      "artist": "Les Rita Mitsouko",
+      "has_synced": true,
+      "path": "select/18_ding_ding_dong(ringing_at_your_bell)_Les_Rita_Mitsouko.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ding ding dong(ringing at your bell)",
+      "artist": "Rita Mitsouko",
+      "has_synced": true,
+      "path": "select/19_ding_ding_dong(ringing_at_your_bell)_Rita_Mitsouko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ding Ding Dong ～心の鐘～",
+      "artist": "AK-69a.k.a.Kalassy Nikoff",
+      "has_synced": false,
+      "path": "select/pl_01_Ding_Ding_Dong_~心の鐘~_AK-69a.k.a.Kalassy_Nikoff.txt"
+    }
+  ]
+}
